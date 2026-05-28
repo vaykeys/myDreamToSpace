@@ -1,0 +1,6 @@
+{
+  "name": "Vera's NASA Space Quest",
+  "description": "An interactive space exploration portal for Vera to dream of working at NASA, ask facts from an AI mentor, and play space simulations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
